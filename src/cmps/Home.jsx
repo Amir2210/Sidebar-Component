@@ -1,5 +1,12 @@
+import { useGlobalContext } from '../AppContext'
+
 export function Home() {
+  const { onToggleModal, onToggleSidebar } = useGlobalContext()
   return (
-    <h1>home</h1>
+    <main>
+      <button onClick={onToggleModal} className='btn'>
+        show modal
+      </button>
+    </main>
   )
 }
