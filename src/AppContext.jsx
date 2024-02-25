@@ -20,7 +20,7 @@ export function AppContext({ children }) {
 
 
   return (
-    <GlobalContext.Provider value={{ onToggleModal }}>
+    <GlobalContext.Provider value={{ onToggleModal, isModalOpen }}>
       {children}
     </GlobalContext.Provider>
   )
