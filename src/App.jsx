@@ -1,4 +1,13 @@
+import { Home } from './cmps/Home'
+import { Modal } from './cmps/Modal'
+import { Sidebar } from './cmps/Sidebar'
 const App = () => {
-  return <h2>Sidebar Starter</h2>;
-};
-export default App;
+  return (
+    <>
+      <Home />
+      <Modal />
+      <Sidebar />
+    </>
+  )
+}
+export default App
