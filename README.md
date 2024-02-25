@@ -39,3 +39,11 @@ While the current version of the components is functional, there are opportuniti
 3. Run npm install to install dependencies.
 4. Run npm run dev to start the development server.
 5. Open your browser and navigate to http://localhost:5173 to view the application.
+
+
+
+https://github.com/Amir2210/Sidebar-Component/assets/107459404/468a5b3b-e41f-4081-bfda-8545ebe38444
+
+
+![ללא שם](https://github.com/Amir2210/Sidebar-Component/assets/107459404/5e375775-a1a1-4a00-b527-83043b50aa2e)
+
